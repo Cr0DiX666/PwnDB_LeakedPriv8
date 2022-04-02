@@ -2,8 +2,8 @@
 ```
 New Updated Tools Priv8 PwnDB Leaked Informations Unliminited Creazy Power Full
 ```
-https://github.com/Alice666x/PwnDB_LeakedPriv8/blob/main/Screenshot_2022-04-03-05-07-35-80.png
-https://github.com/Alice666x/PwnDB_LeakedPriv8/blob/main/pwndb.png
+## ScreenShot Tools
+<a href="https://ibb.co/VQmBgDn"><img src="https://i.ibb.co/VQmBgDn/Screenshot-2022-04-03-05-07-35-80.png" alt="Screenshot-2022-04-03-05-07-35-80" border="0"></a>
 this tool was build for solve limitations of pwndb:
 
 2000 result max
